@@ -4,34 +4,6 @@
 .book-div {
     padding: 80px 0;
 }
-.contai{
-     display: flex;
-     align-items: center;
-     justify-content: space-between;
-}
-.contai img{
-    width: 150px;
-    height: 150px;
-    margin-left: 100%;     
-}
- 
-#navbarSupportedContent{
-     display: flex;
-     align-items: center;
-     justify-content: center;
-
-}
-ul{
-    padding-left: 25vh;
-}
-li {
-     
-}
-.d {
-     position: absolute;
-     right: 10%;
-}
-
 .section-title {
     text-align: center;
     margin-bottom: 52px;
